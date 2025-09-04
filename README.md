@@ -1,9 +1,7 @@
-# Customer-Segmentation-Using-K-Means-Clustering
-Developed a K-Means clustering model to segment retail customers based on purchase history and behavior. Performed EDA, used the Elbow Method for optimal clusters, and interpreted business insights from customer groups. Tools used: Python, scikit-learn, Pandas, Matplotlib.
-
 # 🛍️ Customer Segmentation Using K-Means Clustering
 
-This project uses the **K-Means clustering algorithm** to segment customers of a retail store based on their purchase history and behavior. The goal is to identify distinct customer groups to help the business tailor marketing strategies and improve customer engagement.
+This project uses the **K-Means clustering algorithm** to segment customers of a retail store based on their purchase history and behavior. The goal is to identify distinct customer groups to help the business tailor marketing strategies and improve customer engagement. Developed a K-Means clustering model to segment retail customers based on purchase history and behavior. Performed EDA, used the Elbow Method for optimal clusters, and interpreted business insights from customer groups. Tools used: Python, scikit-learn, Pandas, Matplotlib.
+
 
 ---
 
